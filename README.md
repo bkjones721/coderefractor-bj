@@ -1,7 +1,6 @@
 # coderefractor-bj
 ## Description:
-Bootcamp assignment, where the HTML file is fixed using semantic tags..
-
+Bootcamp assignment, where the HTML file is fixed using semantic tags and CSS coding.
 
 ### Author: Brian Jones
 
